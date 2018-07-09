@@ -19,10 +19,13 @@ https://xmfrog.cc/sounds.html
 
 # 笔记
 
-js层面上基于采用![MichaelMammoliti的jAudio.js](https://github.com/MichaelMammoliti/jAudio.js)，js引用于Css.loli.net常用前端公共库CDN服务。感谢这些大佬~
+js层面上基于采用MichaelMammoliti的jAudio.js(https://github.com/MichaelMammoliti/jAudio.js)，js引用于Css.loli.net常用前端公共库CDN服务。感谢这些大佬~
 
 提醒一下大家，网易云音乐的外链地址不要直接用m1.music.126.net这种的，容易报错，建议直接用
 ```
 http://music.163.com/song/media/outer/url?id=歌曲id.mp3
 ```
 这种形式的~
+
+# 同步发布
+blog.20d.win/archives/103/
