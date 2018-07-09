@@ -1,6 +1,7 @@
 # jQueryMusic
-一个基于jQuery的单页音乐播放器。薄荷二次修改，原作者不详。
+一个基于jQuery的单页音乐播放器。薄荷微改&分享，原作者不详。
 https://github.com/Rowingbohe/jQueryMusic
+<img src="https://blog.20d.win/usr/uploads/2018/07/2063269072.png" alt="无标题.png" />
 
 # 使用教程
 下载后上传到本地，到``index.html``下依样画葫芦填写各项信息。
